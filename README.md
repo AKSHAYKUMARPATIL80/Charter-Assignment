@@ -2,7 +2,7 @@
 
 Reaward Calculation project
 
-This is springboot application calculates and tracks monthly reward points for customers based on their purchase history. Project follows standard three-tier architecture (Controller, Service, DAO).
+This springboot application calculates and tracks monthly reward points for customers based on their purchase history. Project follows standard three-tier architecture (Controller, Service, DAO).
 
 Controller Layer:-
 Method:- GET request mapping
